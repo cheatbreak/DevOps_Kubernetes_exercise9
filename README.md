@@ -1,4 +1,4 @@
-Gotcha—sounds like you want an **nginx Deployment with 3 replicas** and a **NodePort Service** you can hit from local **Minikube**. Here’s a clean, copy-paste setup.
+An **nginx Deployment with 3 replicas** and a **NodePort Service** you can hit from local **Minikube**.
 
 ### 1) Manifest (recommended)
 
